@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "allowJs": true, // ts 파일에 자바스크립트 파일 import 가능하게
+        "checkJs": true, // js 파일에서 @ts-check 붙은 것과 같은 효과          
+        "noImplicitAny": true, // any 타입이라도 명시하라는 옵션
+    }
+}
